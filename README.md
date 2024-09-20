@@ -2,4 +2,4 @@ This static HTML website lets you input characters from a Hypixel Build Guesser 
 
 Here is the site you can access directly as an preview of the html:
 
-https://html-preview.github.io/?url=https://github.com/tomasventura13/Hypixel-Build-Guesser/blob/main/BuildGuessr.html
+https://html-preview.github.io/?url=https://github.com/GigaZelensky/Hypixel-Build-Guesser/blob/main/BuildGuessr.html
